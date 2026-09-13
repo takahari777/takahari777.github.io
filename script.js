@@ -1,3 +1,3 @@
-function hello() {
-    alert("こんにちは！");
+function fn1() {
+    alert("テスト点数管理ツールがクリックされました！");
 }
